@@ -1,0 +1,531 @@
+{
+	"id": "f2b28620-72ee-4cb9-8a05-550fde567997",
+	"name": "BDAPI",
+	"timestamp": "2020-07-09T19:43:09.655Z",
+	"collection_id": "cc8d6f00-9399-49fa-bead-dcb7ff3f2b1f",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 48,
+	"totalFail": 31,
+	"results": [
+		{
+			"id": "abaa6e48-1eb6-48e4-bb07-00405f07abc0",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"time": 941,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Body is correct": false,
+				"Your test name": false,
+				"Body matches string": true,
+				"Status code is 200": true,
+				"Status code is 404": false,
+				"checking if Maurise ip_address is equal to 192.57.232.111": false
+			},
+			"testPassFailCounts": {
+				"Body is correct": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Your test name": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				},
+				"checking if Maurise ip_address is equal to 192.57.232.111": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				941
+			],
+			"allTests": [
+				{
+					"Body is correct": false,
+					"Your test name": false,
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Status code is 404": false,
+					"checking if Maurise ip_address is equal to 192.57.232.111": false
+				}
+			]
+		},
+		{
+			"id": "7ab2c380-cf77-4a74-9f3a-787660c6908b",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"time": 150,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Body is correct": false,
+				"Your test name": false,
+				"Body matches string": true,
+				"Status code is 200": true,
+				"Status code is 404": false,
+				"checking if Maurise ip_address is equal to 192.57.232.111": false
+			},
+			"testPassFailCounts": {
+				"Body is correct": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Your test name": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				},
+				"checking if Maurise ip_address is equal to 192.57.232.111": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				150
+			],
+			"allTests": [
+				{
+					"Body is correct": false,
+					"Your test name": false,
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Status code is 404": false,
+					"checking if Maurise ip_address is equal to 192.57.232.111": false
+				}
+			]
+		},
+		{
+			"id": "9ed47682-417e-488f-9e00-d67565b01c74",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"time": 65,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Body is correct": false,
+				"Your test name": false,
+				"Body matches string": true,
+				"Status code is 200": true,
+				"Status code is 404": false,
+				"checking if Maurise ip_address is equal to 192.57.232.111": false
+			},
+			"testPassFailCounts": {
+				"Body is correct": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Your test name": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				},
+				"checking if Maurise ip_address is equal to 192.57.232.111": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				65
+			],
+			"allTests": [
+				{
+					"Body is correct": false,
+					"Your test name": false,
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Status code is 404": false,
+					"checking if Maurise ip_address is equal to 192.57.232.111": false
+				}
+			]
+		},
+		{
+			"id": "d378d736-f59b-4210-855c-c0801db85e94",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 727,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				727
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "18290848-1867-4dd9-8382-e381a40f4796",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				36
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3c49dfc2-41a9-4eac-b6f8-f19ff78cf1fc",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 34,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				34
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8ff8ce5c-1a0d-454b-b7a7-739416f1f327",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 34,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is 404": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				34
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is 404": false
+				}
+			]
+		},
+		{
+			"id": "61f74a1e-4f45-4ebb-be49-e92bf71055b8",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 33,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is 404": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				33
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is 404": false
+				}
+			]
+		},
+		{
+			"id": "2b33159b-beae-48f4-8cc3-825f385ebfdd",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 35,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is 404": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				35
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is 404": false
+				}
+			]
+		},
+		{
+			"id": "099bcbb7-428b-4739-87ed-b920a031b7b3",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/swagger.json\n",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/swagger.json",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is 404": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				36
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is 404": false
+				}
+			]
+		},
+		{
+			"id": "1c27658c-a078-46a8-be5b-cfbfddb96247",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"time": 89,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Body is correct": false,
+				"Your test name": false,
+				"Body matches string": true,
+				"Status code is 200": true,
+				"Status code is 404": false,
+				"checking if Maurise ip_address is equal to 192.57.232.111": false
+			},
+			"testPassFailCounts": {
+				"Body is correct": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Your test name": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				},
+				"checking if Maurise ip_address is equal to 192.57.232.111": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				89
+			],
+			"allTests": [
+				{
+					"Body is correct": false,
+					"Your test name": false,
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Status code is 404": false,
+					"checking if Maurise ip_address is equal to 192.57.232.111": false
+				}
+			]
+		},
+		{
+			"id": "dd17700e-5526-4b0e-a19c-6a146718525e",
+			"name": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"url": "http://bpdts-test-app-v2.herokuapp.com/users",
+			"time": 69,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is 404": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 404": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				69
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is 404": false
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2249,
+	"collection": {
+		"requests": [
+			{
+				"id": "abaa6e48-1eb6-48e4-bb07-00405f07abc0",
+				"method": "GET"
+			},
+			{
+				"id": "7ab2c380-cf77-4a74-9f3a-787660c6908b",
+				"method": "GET"
+			},
+			{
+				"id": "9ed47682-417e-488f-9e00-d67565b01c74",
+				"method": "GET"
+			},
+			{
+				"id": "d378d736-f59b-4210-855c-c0801db85e94",
+				"method": "GET"
+			},
+			{
+				"id": "18290848-1867-4dd9-8382-e381a40f4796",
+				"method": "GET"
+			},
+			{
+				"id": "3c49dfc2-41a9-4eac-b6f8-f19ff78cf1fc",
+				"method": "GET"
+			},
+			{
+				"id": "8ff8ce5c-1a0d-454b-b7a7-739416f1f327",
+				"method": "GET"
+			},
+			{
+				"id": "61f74a1e-4f45-4ebb-be49-e92bf71055b8",
+				"method": "GET"
+			},
+			{
+				"id": "2b33159b-beae-48f4-8cc3-825f385ebfdd",
+				"method": "GET"
+			},
+			{
+				"id": "099bcbb7-428b-4739-87ed-b920a031b7b3",
+				"method": "GET"
+			},
+			{
+				"id": "1c27658c-a078-46a8-be5b-cfbfddb96247",
+				"method": "GET"
+			},
+			{
+				"id": "dd17700e-5526-4b0e-a19c-6a146718525e",
+				"method": "GET"
+			}
+		]
+	}
+}
